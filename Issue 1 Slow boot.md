@@ -2,7 +2,7 @@
 # Solutions 
 
 - Check windows deivers after update may be incompatible.
-- Do a clean up for the old windows files as they can take space in the disk.
+- Do a clean up for the disk using third party programs that can free up space.
 - Check the boot order in the BIOS if its booting from the correct disk.
 - sacn for malware or virus they can slow down the boot speed if their is any on the PC.
 - Disable unnecessary startup prgrams that can slow down the boot speed.
