@@ -5,5 +5,6 @@
 # Solutions
 - Check for the printer driver it might need an update or reinstall after windows update.
 - Remove printer from driver and add it again to make sure for a new fresh installtion.
-- Check for  
-
+- Check for printer connection to the network.
+- Check if the printer have any hardware problems.
+- Try printing a test page or hard reset the printer.
